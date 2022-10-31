@@ -20,7 +20,7 @@ Web - страница с работами:
 
 # ✅ Лабораторная работа № 3
 
-Работа с Cisco Packet Tracer
+Работа с Cisco Packet Tracer. 
 
-1. Отчет
-2. Сценарий
+1. [Отчет](https://github.com/mailzz/IT_Labs/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82_4.pdf)
+2. [Сценарий](https://github.com/mailzz/IT_Labs/blob/main/%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9_4.pka)
