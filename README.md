@@ -12,7 +12,7 @@
 
 5. Размещение странички на хостинге.
 
-Web - страница с работами:
+Web - страница с работами: https://mailzz.github.io/IT_Labs/
 
 # ✅ Лабораторная работа № 2
 
@@ -32,5 +32,5 @@ Web - страница с работами:
 
 Работа с Cisco Packet Tracer. 
 
-1. [Отчет](https://github.com/mailzz/IT_Labs/blob/main/%D0%9E%D1%82%D1%87%D0%B5%D1%82_4.pdf)
-2. [Сценарий](https://github.com/mailzz/IT_Labs/blob/main/%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9_4.pka)
+1. [Отчет](https://github.com/mailzz/IT_Labs/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/%D0%9E%D1%82%D1%87%D0%B5%D1%82_4.pdf)
+2. [Сценарий](https://github.com/mailzz/IT_Labs/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9_4.pka)
