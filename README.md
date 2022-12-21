@@ -12,15 +12,15 @@
 
 5. Размещение странички на хостинге.
 
-Web - страница с работами: https://mailzz.github.io/IT_Labs/
+[Web - страница](https://mailzz.github.io/IT_Labs/) с работами. 
 
 # ✅ Лабораторная работа № 2
 
 В рамках проекта был создан сайт магазина игрушек под названием Bear House.
 
-[Landing Page](https://saintmantis.github.io/bear-house-landing-page/)
+ ● [Landing Page](https://saintmantis.github.io/bear-house-landing-page/).
 
-[Ссылка на репрозиторий](https://github.com/saintmantis/bear-house-landing-page/tree/master)
+ ● [Ссылка на репрозиторий](https://github.com/saintmantis/bear-house-landing-page/tree/master).
 
 Используемый стек технологий:
 
@@ -36,5 +36,11 @@ Web - страница с работами: https://mailzz.github.io/IT_Labs/
 
 Работа с Cisco Packet Tracer. 
 
-1. [Отчет](https://github.com/mailzz/IT_Labs/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/%D0%9E%D1%82%D1%87%D0%B5%D1%82_4.pdf)
-2. [Сценарий](https://github.com/mailzz/IT_Labs/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9_4.pka)
+1. [Отчет](https://github.com/mailzz/IT_Labs/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/%D0%9E%D1%82%D1%87%D0%B5%D1%82_4.pdf).
+2. [Сценарий](https://github.com/mailzz/IT_Labs/blob/main/%D0%BE%D1%82%D1%87%D0%B5%D1%82%D1%8B/%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9_4.pka).
+
+# ✅ Экзаменационные билет №19
+
+[Ответ](https://github.com/stankin/inet-2022/wiki/exam19) на экзаменационный билет.
+
+[История изменений](https://github.com/stankin/inet-2022/wiki/exam19/_history) экзаменационного билета. 
