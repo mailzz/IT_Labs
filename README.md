@@ -42,6 +42,6 @@
 
 # ✅ Экзаменационные билет №19
 
-[Ответ](https://github.com/stankin/inet-2022/wiki/exam19) на экзаменационный билет.
+ ● [Ответ](https://github.com/stankin/inet-2022/wiki/exam19) на экзаменационный билет.
 
-[История изменений](https://github.com/stankin/inet-2022/wiki/exam19/_history) экзаменационного билета. 
+ ● [История изменений](https://github.com/stankin/inet-2022/wiki/exam19/_history) экзаменационного билета. 
